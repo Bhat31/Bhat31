@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+Hi, I'm Hitesh — a B.Tech student at IIIT-Delhi, passionate about building impactful software and exploring the intersection of computer science, design, and research. I love working on full-stack web projects, designing clean user interfaces, and simulating real-world systems like OS memory management and scheduling algorithms.
 
 
 ## 🌐 Socials:
