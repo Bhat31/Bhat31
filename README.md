@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hitesh — a B.Tech student at IIIT-Delhi, passionate about building impactful software and exploring the intersection of computer science, design, and research. I love working on full-stack web projects, designing clean user interfaces, and simulating real-world systems like OS memory management and scheduling algorithms.
-
+Hello! 👋 I'm Hitesh — a Computer Science undergrad at IIIT-Delhi with a strong interest in building impactful software that blends thoughtful design with efficient engineering. I'm currently focused on strengthening my skills in data structures and algorithms, while actively exploring how computer science connects with design and research. I enjoy working on full-stack web development projects and have a passion for creating clean, user-friendly interfaces that prioritize both functionality and experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiteshbhat31) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhathitesh02@gmail.com) 
